@@ -37,7 +37,7 @@
 
 - 📄 <a href="https://drive.google.com/file/d/1RHy-zr_w3ZVZ0dOMiK2xTP1viMb-aWRE/view?usp=sharing/view?usp=sharing">**Resume**</a>
 
-- 😊 **YOLO**(You Only Live Once)
+- 😊 **Either be part of it or watch it happen.**
 <br/>
 </p>
 
