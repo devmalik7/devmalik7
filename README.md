@@ -22,7 +22,7 @@
 </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devmalik7&label=Profile%20views&color=0e75b6&style=flat" alt="devmalik7" /> </p>
-    <img align="right" alt="GIF" src="https://github.com/aakashgoel2002/aakashgoel2002/blob/main/code.gif?raw=true" width="500" height="320" />
+    <img align="right" alt="GIF" src="https://github.com/aakashgoel2002/devmalik7/blob/main/code.gif?raw=true" width="500" height="320" />
     </p>
 <p align="left">
     
@@ -44,9 +44,10 @@
 <br/>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashgoel2002&show_icons=true&locale=en&layout=compact" alt="aakashgoel2002" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmalik7&layout=compact&theme=gruvbox" /></p>
 
 <p align="left">
+
 
 **Languages and Tools:**
 
