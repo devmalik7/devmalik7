@@ -15,6 +15,9 @@
 <a href="https://dev.to/devmalik7/">
   <img align="center" alt="Dev's Dev Profile" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
   </a>
+    <a href="https://discord.gg/#9287">
+  <img align="center" alt="Dev's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
   <a href="https://discord.gg/#9287" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#9287" height="30" width="40" /></a>
 </a>
 </p>
