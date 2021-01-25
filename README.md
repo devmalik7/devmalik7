@@ -21,8 +21,8 @@
   <a href="https://discord.gg/#9287" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#9287" height="30" width="40" /></a>
 </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devmalik7&label=Profile%20views&color=0e75b6&style=flat" alt="devmalik7" /> </p>
-    <img align="right" alt="GIF" src="https://github.com/aakashgoel2002/devmalik7/blob/main/code.gif?raw=true" width="500" height="320" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devmalik7&label=Profile%20views&color=0e75b6&style=flat" alt="devmalik7" /> 
+<p align="right"> <img align="right" alt="GIF" src="https://github.com/devmalik7/devmalik7/blob/main/code.gif?raw=true" width="500" height="320" />
     </p>
 <p align="left">
     
