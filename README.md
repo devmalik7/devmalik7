@@ -62,8 +62,7 @@
 <p align="left">
     
     
-    <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/android.svg" alt="android" width="40" height="40"/> </a> 
+    0"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/visualStudioCode.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/intellijIdea.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/git.svg" alt="git" width="40" height="40"/> </a>
