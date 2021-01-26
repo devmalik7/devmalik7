@@ -32,7 +32,7 @@
 
 - 💬 Ping me about **Android Development** and **Astronomical🚀** stuff.
 
-- 📫 Reach me on **devm333666@gmail.com**
+- 📫 Reach me on **devm333666@gmail.com** <a href="devm333666@gmail.com">**Email**</a>
 
 - 👨‍💻 Some of my projects are available on <a href="https://github.com/devmalik7?tab=repositories">**Github**</a>.
 
