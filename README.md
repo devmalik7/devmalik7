@@ -63,10 +63,6 @@
     
     
     
-    rget="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/visualStudioCode.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/intellijIdea.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/photoshop.svg" alt="git" width="40" height="40"/> </a>
     
 Last Edited: 25th January,2021
 </p>
