@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/devmalik07/">
-  <img align="center" alt="Dev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/https:/devmalik7/devmalik7/blob/main/assets/linkedin.svg" />
+  <img align="center" alt="Dev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/https:/devmalik7/devmalik7/main/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/devmalik07">
   <img align="center" alt="Dev's Twitter" width="22px" src="https://raw.githubusercontent.com/devmalik7/devmalik7/blob/main/assets/twitter.svg" />
