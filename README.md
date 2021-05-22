@@ -20,7 +20,7 @@
 </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devmalik7&label=Profile%20views&color=0e75b6&style=flat" alt="devmalik7" /> 
-<p align="right"> <img align="right" alt="GIF" src="https://github.com/devmalik7/devmalik7/blob/main/code.gif?raw=true" width="500" height="320" />
+<p align="right"> <img align="right" alt="GIF" src="https://github.com/devmalik7/devmalik7/main/assets/code.gif?raw=true" width="500" height="320" />
     </p>
 <p align="left">
     
