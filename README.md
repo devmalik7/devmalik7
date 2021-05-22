@@ -17,10 +17,8 @@
   </a>
     <a href="https://discord.gg/#9287">
   <img align="center" alt="Dev's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devmalik7&label=Profile%20views&color=0e75b6&style=flat" alt="devmalik7" /> 
-<p <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devmalik7/devmalik7/main/assets/java.svg" alt="java" width="40" height="40"/> </a>/>
+<p align="right">
+    <img align="right" alt="GIF" src="https://github.com/devmalik7/devmalik7/blob/main/assets/code.gif?raw=true" width="500" height="320" />
     </p>
 <p align="left">
     
