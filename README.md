@@ -26,9 +26,9 @@
     
 **A Few Quick Facts:**
 
-- 👨‍💻 I’m currently working on **Andorid**, **Java**, **Kotlin** and **C**.
+- 👨‍💻 I’m currently working on **Andorid**, **Java**, **Kotlin**, "C" and **C++**.
 
-- 🌱 I’m currently learning **C++**.
+- 🌱 I’m currently learning **ML**.
  
 - 💬 Ping me about **Android Development** and **Astronomical🚀** stuff.
 
