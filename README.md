@@ -26,7 +26,7 @@
     
 **A Few Quick Facts:**
 
-- 👨‍💻 I’m currently working on **Andorid**, **Java**, **Kotlin**, "C" and **C++**.
+- 👨‍💻 I’m currently working on **Python**, **Kotlin**, and **ML**.
 
 - 🌱 I’m currently learning **ML**.
  
