@@ -2,7 +2,7 @@
 
 <p align="center">
 <samp>
-    I'm Dev Malik, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University</a>:school:. I a tech enthusiast as well as a self-taught Passionate Android Developer and a programmer,I love to build Full Stack Android Application. Occasionally I do participate in Hackathons:bulb: and I enjoy learning new technologies:man_technologist: and astronomical stuff🚀.
+    I'm Dev Malik, I have completed B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University</a>:school:. I a tech enthusiast as well as a self-taught Passionate Android Developer and a programmer,I love to build Full Stack Android Application. Occasionally I do participate in Hackathons:bulb: and I enjoy learning new technologies:man_technologist: and astronomical stuff🚀.
   </samp>
 </p>
 <p align="center">
