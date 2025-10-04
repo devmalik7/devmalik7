@@ -36,8 +36,7 @@
 
 - 👨‍💻 Some of my projects are available on <a href="https://github.com/devmalik7?tab=repositories">**Github**</a>.
 
-- 📄 <a href="https://drive.google.com/file/d/1gx8q7pXm1YQ2CFZBTszw2vgR7NNBTszN/view?usp=sharing
-">**Resume**</a>.
+
 
 - 😊 **Either be part of it or watch it happen.**
 <br/>
