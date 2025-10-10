@@ -5,18 +5,7 @@
     I'm Dev Malik, I have completed B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University</a>:school:. I a tech enthusiast as well as a self-taught Passionate Android Developer and a programmer,I love to build Full Stack Android Application. Occasionally I do participate in Hackathons:bulb: and I enjoy learning new technologies:man_technologist: and astronomical stuff🚀.
   </samp>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/devmalik07/">
-  <img align="center" alt="Dev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/devmalik07">
-  <img align="center" alt="Dev's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://dev.to/devmalik7/">
-  <img align="center" alt="Dev's Dev Profile" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-  </a>
-    <a href="https://discord.gg/#9287">
-  <img align="center" alt="Dev's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+
 </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devmalik7&label=Profile%20views&color=0e75b6&style=flat" alt="devmalik7" /> 
